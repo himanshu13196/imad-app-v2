@@ -11,25 +11,16 @@ var articles =
   title: 'Article One | Himanshu',
   heading: 'Article One',
   date: 'Jan 13,2017',
-  content: `
+  content: '
             <p>
                 Heyy Folks, This is my first webpage . Will be uploading content soon !!!!  Stay in touch ...    Love u All :)
                 Heyy Folks, This is my first webpage . Will be uploading content soon !!!!  Stay in touch ...    Love u All :)
                 Heyy Folks, This is my first webpage . Will be uploading content soon !!!!  Stay in touch ...    Love u All :)
-            </p>
-            <p>
-                Heyy Folks, This is my first webpage . Will be uploading content soon !!!!  Stay in touch ...    Love u All :)
-                Heyy Folks, This is my first webpage . Will be uploading content soon !!!!  Stay in touch ...    Love u All :)
-                Heyy Folks, This is my first webpage . Will be uploading content soon !!!!  Stay in touch ...    Love u All :)
-            </p>
-            <p>
-                Heyy Folks, This is my first webpage . Will be uploading content soon !!!!  Stay in touch ...    Love u All :)
-                Heyy Folks, This is my first webpage . Will be uploading content soon !!!!  Stay in touch ...    Love u All :)
-                Heyy Folks, This is my first webpage . Will be uploading content soon !!!!  Stay in touch ...    Love u All :)
-            </p>`
-    
-    
-},
+            </p>'
+            
+            
+            }    ,
+
   `article-two : {
   title: 'Article Two | Himanshu',
   heading: 'Article Two',
