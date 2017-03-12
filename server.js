@@ -11,14 +11,11 @@ var articles =
   title: 'Article One | Himanshu',
   heading: 'Article One',
   date: 'Jan 13,2017',
-  content: '
-            <p>
-                Heyy Folks, This is my first webpage . Will be uploading content soon !!!!  Stay in touch ..Love u All
-            </p>'
-            
-            
-            }    ,
-
+  content: `
+                Heyy Folks, This is my first webpage . Will be uploading content soon !!!!  Stay in touch ..Love u All 
+                
+            `
+            } ,
   `article-two : {
   title: 'Article Two | Himanshu',
   heading: 'Article Two',
@@ -54,7 +51,7 @@ function createTemplate (data) {
  <html>
     <head>
         <title>
-            ${title}
+        ${title}
         </title>
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
          <link href="/ui/style.css" rel="stylesheet" />
