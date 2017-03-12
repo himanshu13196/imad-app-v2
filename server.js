@@ -13,9 +13,7 @@ var articles =
   date: 'Jan 13,2017',
   content: '
             <p>
-                Heyy Folks, This is my first webpage . Will be uploading content soon !!!!  Stay in touch ...    Love u All :)
-                Heyy Folks, This is my first webpage . Will be uploading content soon !!!!  Stay in touch ...    Love u All :)
-                Heyy Folks, This is my first webpage . Will be uploading content soon !!!!  Stay in touch ...    Love u All :)
+                Heyy Folks, This is my first webpage . Will be uploading content soon !!!!  Stay in touch ..Love u All
             </p>'
             
             
@@ -36,11 +34,11 @@ var articles =
   title: 'Article Three | Himanshu',
   heading: 'Article Three',
   date: 'Jan 13,2014',
-  content: `
+  content: '
             <p>
                 Heyy Folks, This is my third Article . Will be uploading content soon !!!!  Stay in touch ...    Love u All :)
             
-            </p>`
+            </p>'
     
  }
 };
